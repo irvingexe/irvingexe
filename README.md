@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <p>
-  Welcome to my page! </br> I'm Irving, Fullstack developer from <img src="https://github.com/irvingexe/irvingexe/blob/main/assets/flag.png" width="13"/> <b>Mexico</b></p>
+  Welcome to my page! </br> I'm Irving, Full-Stack Developer from <img src="https://github.com/irvingexe/irvingexe/blob/main/assets/flag.png" width="13"/> <b>Mexico</b></p>
 <p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 ⚡ &nbsp;I like to explore new technologies and develop meaningful software solutions.\
-🤖 &nbsp;I’m majorly involved in front-end development specializing in visual and interactive web experiences.\
+🤖 &nbsp;I’m majorly involved in Front-End development specializing in visual and interactive web experiences.\
 🔭 &nbsp;I'm on track for learning more about Graphic Computing, Systems Design, and Cloud Architecture.\
 🎨 &nbsp;In my free time, I pursue Graphic Design and Visual Arts as hobbies/side hustles.\
 🚵🏻‍♂️ &nbsp;Fun fact: I love mountain bike and photographing stunning landscapes.\
