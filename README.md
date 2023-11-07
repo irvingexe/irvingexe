@@ -11,7 +11,7 @@
 🔭 &nbsp;I'm on track for learning more about Graphic Computing, Systems Design, and Cloud Architecture.\
 🎨 &nbsp;In my free time, I pursue Graphic Design and Visual Arts as hobbies/side hustles.\
 🚵🏻‍♂️ &nbsp;Fun fact: I love mountain bike and photographing stunning landscapes.\
-📢 &nbsp;You can reach out at ✉️ hello@irving.work also feel free to have a look at my 📄 [Résumé](https://drive.google.com/file/d/1eXWuw0uUPeG2oIe52Urc7Svf8ap-LGft/view?usp=drive_link) or visit my 💼 [Portfolio](https://www.irving.work/) for more details about me and my work.
+📢 &nbsp;You can reach out at ✉️ hello@irving.work also feel free to visit my 💼 [Portfolio](https://www.irving.work/) for more details about me and my work.
   
 <h3>👨🏻‍💻 Things I code with</h3>
 <p>
