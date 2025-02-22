@@ -8,8 +8,6 @@
 
 ⚡ &nbsp;I like to explore new technologies and develop meaningful software solutions.\
 🤖 &nbsp;I’m majorly involved in Front-End development specializing in visual and interactive web experiences.\
-🔭 &nbsp;I'm on track for learning more about Graphic Computing and Cloud Architecture.\
-🎨 &nbsp;In my free time, I pursue Graphic Design and Visual Arts as hobbies/side hustles.\
 🫱🏻‍🫲🏻 &nbsp;You can reach out at ✉️ hello@irving.work also feel free to visit my 💼 [Portfolio](https://www.irving.work/) for more details about me and my work.
   
 <h3>👨🏻‍💻 Things I code with</h3>
